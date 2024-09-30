@@ -6,6 +6,7 @@ export interface Pet {
   birthdate: Date;       // Data de nascimento do pet
   type: string;           // Tipo de pet (ex: cão, gato, etc.)
   breed: string;          // Raça do pet
+  size: string;
   description?: string;   // Descrição do pet
   image: any;            // Imagem do pet (você pode ajustar isso conforme necessário)
   ownerId: string;        // ID do usuário que é o dono do pet
