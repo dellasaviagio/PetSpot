@@ -18,3 +18,4 @@ Após o QR Code ter sido gerado:
   1. Verificar: Se abaixo do QR Code estiver a mensagem "Using development build", aperte a tecla 'S' para trocar para Expo Go;
   2. Abra o app no celular e selecione a opção 'Scan QR Code';
   3. Após escanear: caso abra uma janela do navegador no celular perguntando onde deseja abrir o projeto, selecione a opção 'Expo Go';
+  4. Aguarde alguns segundos para que o projeto seja inicializado no celular;
